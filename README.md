@@ -58,6 +58,3 @@ AmigoSecreto/
 
 Este proyecto forma parte de la formación **ONE - Oracle Next Education**, un programa educativo enfocado en el desarrollo de habilidades tecnológicas.
 
-## Autor
-
-Desarrollado por Santiago Zapata Ospina.
